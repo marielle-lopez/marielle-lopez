@@ -1,6 +1,6 @@
 # Hey, I'm Marielle!
 
-I'm a junior full-stack developer with a Bachelor of Science (majoring in Pathology) who was on their way to becoming a dermatologist, but I found a true passion for coding. I love building things, whether it's keyboards, computers, Lego sets, or even web applications (who would've thought?).
+I'm a junior full-stack developer with a Bachelor of Science (majoring in Pathology) who was on their way to becoming a dermatologist, but I found a true passion for coding. I'm currently studying a Bachelor of Computer Science! I love building things, whether it's keyboards, computers, Lego sets, or even web applications (who would've thought?).
 
 If you wanna reach me, you can find me at:
 
