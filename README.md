@@ -4,7 +4,7 @@ I'm a junior full-stack developer with a Bachelor of Science (majoring in Pathol
 
 If you wanna reach me, you can find me at:
 
-[![mariellelopez.netlify.app](https://img.shields.io/badge/mariellelopez.netlify.app-grey?logo=icloud&labelColor=lightgrey)](https://mariellelopez.netlify.app/)
+[![mariellelopez.netlify.app](https://img.shields.io/badge/mariellelopez.netlify.app-grey?logo=netlify&labelColor=lightgrey)](https://mariellelopez.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/marielle--lopez-grey?logo=linkedin&logoColor=0A66C2&labelColor=lightgrey)](https://www.linkedin.com/in/marielle-lopez/)
 
 ## I've got skills in...
