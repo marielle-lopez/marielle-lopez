@@ -37,6 +37,7 @@ If you wanna reach me, you can find me at:
 <!-- 
 https://shields.io/badges/static-badge
 https://gist.github.com/backslash-f/830eca07f905083f33a709d9761b5bd1
+https://simpleicons.org/
 -->
 
 <!--
