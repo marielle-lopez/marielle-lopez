@@ -34,6 +34,11 @@ If you wanna reach me, you can find me at:
 ![Figma](https://img.shields.io/badge/Figma-grey?logo=figma&labelColor=lightgrey)
 ![Photoshop](https://img.shields.io/badge/Photoshop-grey?logo=adobephotoshop&labelColor=lightgrey)
 
+<!-- 
+https://shields.io/badges/static-badge
+https://gist.github.com/backslash-f/830eca07f905083f33a709d9761b5bd1
+-->
+
 <!--
 **marielle-lopez/marielle-lopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
